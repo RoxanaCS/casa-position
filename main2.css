@@ -1,0 +1,120 @@
+.casa-caja{
+  width: 1500px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+  background: #b3ffff;
+
+}
+
+.pasto{
+  width: 1500px;
+  height: 50px;
+  background: #59b300;
+  position: absolute;
+  bottom: 0px;;
+}
+.base{
+  width: 200px;
+  height: 100px;
+  background: #009999;
+  position: absolute;
+  top: 450px;
+  left: 300px;
+}
+.techo{
+  width: 200px;
+  height: 0px;
+  border-right: 30px solid transparent;
+  border-left: 30px solid transparent;
+  border-bottom: 70px solid #ffad33;
+  background: #b3ffff;
+  position: absolute;
+  top: 380px;
+  left: 270px;
+}
+.ventana_1{
+  width: 40px;
+  height: 40px;
+  background: white;
+  position: absolute;
+  top: 480px;
+  left: 320px;
+}
+.ventana_2{
+  width: 40px;
+  height: 40px;
+  background: white;
+  position: absolute;
+  top: 480px;
+  left: 440px;
+}
+.puerta{
+  width: 50px;
+  height: 70px;
+  background: #ffffb3;
+  position: absolute;
+  top: 480px;
+  left: 375px;
+}
+.chimenea{
+  width: 25px;
+  height: 35px;
+  background: #bfbfbf;
+  position: absolute;
+  top: 370px;
+  left: 450px;
+}
+.humo_1{
+  width: 25px;
+  height: 25px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: grey;
+  position: absolute;
+  top: 338px;
+  left: 450px;
+
+}
+.humo_2{
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #a9a9a9;
+  position: absolute;
+  top: 330px;
+  left: 472px;
+}
+.humo_3{
+  width: 15px;
+  height: 15px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #d9d9d9;
+  position: absolute;
+  top: 325px;
+  left: 490px;
+}
+.arbol{
+  width: 150px;
+  height: 150px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: green;
+  position: absolute;
+  top: 305px;
+  left: 620px;
+}
+.tronco{
+  width: 30px;
+  height: 100px;
+  background: #996633;
+  position: absolute;
+  top: 450px;
+  left: 680px;
+}
